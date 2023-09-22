@@ -1,0 +1,18 @@
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\bin\Debug\Clinica de Macacos.exe.config
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\bin\Debug\Clinica de Macacos.exe
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\bin\Debug\Clinica de Macacos.pdb
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\obj\Debug\Clinica de Macacos.csproj.AssemblyReference.cache
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\obj\Debug\Clinica_de_Macacos.Form1.resources
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\obj\Debug\Clinica_de_Macacos.Properties.Resources.resources
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\obj\Debug\Clinica de Macacos.csproj.GenerateResource.cache
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\obj\Debug\Clinica de Macacos.csproj.CoreCompileInputs.cache
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\obj\Debug\Clinica de Macacos.exe
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\obj\Debug\Clinica de Macacos.pdb
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\obj\Debug\Clinica_de_Macacos.FrmCadCliente.resources
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\obj\Debug\Clinica_de_Macacos.AnimalCad.resources
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\obj\Debug\Clinica_de_Macacos.PrincipaisClientes.resources
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\bin\Debug\MySql.Data.DLL
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\obj\Debug\Clinica de Macacos.csproj.CopyComplete
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\bin\Debug\System.Memory.dll
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NicollasSouza\source\repos\Clinica de Macacos\Clinica de Macacos\bin\Debug\System.Buffers.dll
